@@ -1,5 +1,5 @@
 # GB_DataBase_Project
-Project describeы a simplified model of storage data on kinopoisk.
+Project describes a simplified model of storage data on kinopoisk.
 
 Main tables: users and films.
 The following data is stored in developed database: 
