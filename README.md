@@ -1,4 +1,5 @@
 # GB_DataBase_Project
+Project was developed using MySQL.
 Project describes a simplified model of storage data on kinopoisk.
 
 Main tables: users and films.
